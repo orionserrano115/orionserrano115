@@ -9,7 +9,7 @@ Actualmente busco mi primera oportunidad laboral o práctica profesional en desa
 
 **Frontend:** HTML5, CSS3, JavaScript
 
-**Backend:** PHP, Python, Java
+**Backend:** PHP, Python, Java(fundamentos)
 
 **Bases de Datos:** MySQL, PostgreSQL (fundamentos)
 
