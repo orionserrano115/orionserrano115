@@ -31,11 +31,13 @@ Integración y procesamiento de datos JSON desde APIs externas.
 
 🔗 https://github.com/orionserrano115/funcionamineto__APIs
 
-### 💻 Portafolio Personal
+📚 Registro de Estudiantes
 
-Sitio web para presentar mi perfil y proyectos.
+API REST con Flask y MySQL para la gestión de estudiantes. Incluye CRUD completo, validaciones, manejo de errores y despliegue en producción con AlwaysData.
 
-🔗 https://github.com/orionserrano115/projectCodLatam2
+🔗 GitHub: https://github.com/orionserrano115/registroEstudiantes
+
+🌐 Demo: https://trainee115.alwaysdata.net/cliente3/estudiantes
 
 ## Formación
 
